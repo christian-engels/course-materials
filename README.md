@@ -6,7 +6,6 @@ Practical, hands‑on materials for the 2025 Data Science and Causal Inference W
 
 ## Contents
 - `slides/` – PDF exports of session slides
-- `lectures/` – Original slide decks (PowerPoint)
 - `code/` – Example scripts & exercises 
 - `agenda.pdf` – High‑level schedule
 
