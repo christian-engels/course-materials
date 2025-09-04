@@ -2,7 +2,7 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "r.rterm.linux": "/usr/local/bin/radian",
-  "r.bracketedPaste": false,
+  "r.bracketedPaste": true,
   "r.sessionWatcher": true,
   "r.plot.useHttpgd": true,
   "r.alwaysUseActiveTerminal": true,
